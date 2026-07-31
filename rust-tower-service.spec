@@ -5,7 +5,7 @@
 %global crate tower-service
 
 Name:           rust-%{crate}
-Version:        0.3.0
+Version:        0.3.3
 Release:        1%{?dist}
 Summary:        Asynchronous, request / response based, client or server trait
 
